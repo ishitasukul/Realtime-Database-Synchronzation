@@ -1,1 +1,2 @@
-# Realtime-Database-Synchronzation
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
